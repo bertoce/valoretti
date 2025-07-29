@@ -1,5 +1,3 @@
-
-
 Valoretti - Sapphire Reserve ROI Calculator
 A comprehensive ROI calculator for the Chase Sapphire Reserve credit card, helping existing cardholders determine if the card is worth keeping based on their spending patterns and benefit usage.
 
